@@ -1,4 +1,4 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+n[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 # 🤖 PUSH KONTAK
 
@@ -48,7 +48,7 @@
 - Konfigurasi Owner Pada `./setting/config.js`
 
 ```ts
-global.owner = ["6285742632270"];
+global.owner = ["628132804242"];
 global.author = "https://github.com/rezadev05";
 global.packname = "push-kontak";
 global.sessionName = "WhatsApp-Session";
